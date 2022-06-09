@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>Hello world!</h1>
-    <a href="{{route('part1')}}">pagina1</a>
     <a href="{{route('part2')}}">pagina2</a>
     <a href="{{route('part3')}}">pagina3</a>
     <a href="{{route('part4')}}">pagina4</a>
